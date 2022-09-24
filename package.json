@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "description": "Pnpm workspace integration with Nx",
+  "scripts": {
+    "prepare": "echo \"installed!\""
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
